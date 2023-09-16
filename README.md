@@ -12,3 +12,7 @@ Sample website with plenty of files for demos. added period. and that, and that 
 
 ## How to Contribute
 DONT, haha, but really, its just a test. 
+
+
+## Copyright
+Glizz.training. 
