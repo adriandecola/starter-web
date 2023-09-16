@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Adrian deCola adriandecola@gmail.com
 
 # THANKS
 
