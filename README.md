@@ -14,4 +14,4 @@ Sample website with plenty of files for demos. added period. and that, and that 
 PLead fork this repository and then issue Pull Requests for review. 
 
 ## Copyright
-Glizz.training. 
+Glizz.training. All rights reserved.  
